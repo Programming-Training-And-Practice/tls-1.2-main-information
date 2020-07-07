@@ -34,7 +34,8 @@
 
 
 ## Cons.
-
+* Slow.
+* Insecure.
 
 
 
